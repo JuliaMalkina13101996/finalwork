@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "итоговая", "итоговая\итоговая.csproj", "{2F180308-CBF0-41A7-9A09-7B1CBB5006DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F180308-CBF0-41A7-9A09-7B1CBB5006DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F180308-CBF0-41A7-9A09-7B1CBB5006DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F180308-CBF0-41A7-9A09-7B1CBB5006DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F180308-CBF0-41A7-9A09-7B1CBB5006DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95C53919-7B21-439D-A8A0-0CD8566A0C7E}
+	EndGlobalSection
+EndGlobal
